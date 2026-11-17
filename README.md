@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040047
+# Name:BHAVITRA B
+# Date:17-11-2026
 
 
 # AIM:
@@ -50,7 +50,8 @@ Specifying the context and requirements of a system
 
 
 
-![alt text](<Screenshot 2026-10-14 141254.png>)
+<img width="1002" height="727" alt="Screenshot 2026-10-14 141226" src="https://github.com/user-attachments/assets/1822bc42-2d54-4bb3-99de-d179e58a06d8" />
+
 
 
 
@@ -69,9 +70,11 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+<img width="1535" height="770" alt="Screenshot 2026-10-27 104406" src="https://github.com/user-attachments/assets/ee122d9c-2c74-4850-bf5b-04e67152d15f" />
 
 
-![alt text](<Screenshot 2026-10-27 104406.png>)
+
+
 
 # COMMUNICTION DIAGRAM:
 
@@ -79,7 +82,8 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
-![alt text](<Screenshot 2026-10-30 140110.png>)
+<img width="1535" height="810" alt="Screenshot 2026-10-30 140110" src="https://github.com/user-attachments/assets/8c0beb2e-567d-44e2-b6d2-e0f9242ae7f3" />
+
 
 
 # PACKAGE DIAGRAM:
@@ -91,7 +95,9 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
-![alt text](image-2.png)
+
+<img width="855" height="605" alt="Screenshot 2026-11-17 105837" src="https://github.com/user-attachments/assets/72fb7ec4-15c9-41be-9657-027d43e4c69e" />
+
 
 
 
@@ -110,7 +116,8 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
-![alt text](image-1.png)
+
+<img width="1915" height="1078" alt="image" src="https://github.com/user-attachments/assets/d135df4e-9c82-4dc1-b4cc-a7096cf07951" />
 
 
 
@@ -133,7 +140,8 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
-![alt text](<Screenshot 2026-11-03 104516.png>)
+<img width="1535" height="813" alt="Screenshot 2026-11-03 104516" src="https://github.com/user-attachments/assets/f2c79e10-c73b-43f9-90a5-333ffc88e1c2" />
+
 
 
 
